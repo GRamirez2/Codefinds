@@ -17,3 +17,19 @@ For examples, require("fs") will give you Node's built-in filesytem module.
 https://visionmedia.github.io/masteringnode/
 
 
+
+**Resources**
+http://www.nodebeginner.org/
+i haven't read through this but it looks promising. the mastering node book above was over my head from the get go.
+
+http://book.mixu.net/node/
+haven't read this either but it's free
+
+https://github.com/substack/stream-handbook
+building node apps using streams, whatever that is
+
+http://nodeguide.com/
+the beginner guide looks to be a good resource
+
+http://chimera.labs.oreilly.com/books/1234000001808/index.html
+looks thorough.
