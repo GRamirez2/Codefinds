@@ -18,7 +18,8 @@ https://visionmedia.github.io/masteringnode/
 
 
 
-**Resources**
+### **Resources**
+
 http://www.nodebeginner.org/
 i haven't read through this but it looks promising. the mastering node book above was over my head from the get go.
 
@@ -33,3 +34,13 @@ the beginner guide looks to be a good resource
 
 http://chimera.labs.oreilly.com/books/1234000001808/index.html
 looks thorough.
+
+http://nodeschool.io/
+pretty cool resource
+
+
+### **Practice**
+
+this looks likea good resource for small projects to get a good feel for working with node:
+
+http://nicholasjohnson.com/node/course/exercises/
